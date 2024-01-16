@@ -1,0 +1,898 @@
+{"level":30,"time":"2024-01-16T16:34:35.413Z","pid":296,"hostname":"Siqueira-Neto","msg":"Listening on 57166"}
+{"level":30,"time":"2024-01-16T16:34:35.619Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:35.620Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:35.622Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:35.622Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:35.625Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-01-16T16:34:35.858Z","pid":296,"hostname":"Siqueira-Neto","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2024-01-16T16:34:35.859Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-01-16T16:34:35.859Z","pid":296,"hostname":"Siqueira-Neto","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-01-16T16:34:35.863Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:35.863Z","pid":296,"hostname":"Siqueira-Neto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-16T16:34:35.873Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:35.976Z","pid":296,"hostname":"Siqueira-Neto","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-16T16:34:35.976Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:36.828Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:36.831Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:36.831Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-01-16T16:34:36.852Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:36.855Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:36.855Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:36.903Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:36.905Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:36.905Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:36.909Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:36.911Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:36.911Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:36.926Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element form > h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-16T16:34:36.926Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:36.929Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.929Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-01-16T16:34:36.942Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.944Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.944Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-01-16T16:34:36.954Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.956Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.956Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-01-16T16:34:36.965Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.967Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.967Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-01-16T16:34:36.977Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:36.979Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:36.979Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.006Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:37.008Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.008Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.013Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.013Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.025Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.025Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.030Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.030Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.042Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.042Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.046Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.046Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.058Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.058Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.063Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.063Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.075Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.075Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.079Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.079Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.091Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.091Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.096Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.096Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.107Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.108Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.113Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.113Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.124Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.124Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.129Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.129Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.140Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.140Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.145Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.145Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.156Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.156Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.160Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.160Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.172Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.172Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.176Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.176Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.188Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.188Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.193Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.193Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.204Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.204Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.208Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.208Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.220Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.220Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.225Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.225Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.237Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.237Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.241Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.241Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.252Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.252Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.257Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.257Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.268Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.268Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.272Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.272Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.284Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.284Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.288Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:37.288Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.299Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.299Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.306Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Amadeu Ferreira de Sousa"}
+{"level":30,"time":"2024-01-16T16:34:37.306Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.307Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.307Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.312Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Baviera"}
+{"level":30,"time":"2024-01-16T16:34:37.312Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.313Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.313Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.317Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Quixadá/CE"}
+{"level":30,"time":"2024-01-16T16:34:37.317Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:37.319Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:37.319Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.329Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:37.331Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:37.331Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.338Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:37.341Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-01-16T16:34:37.352Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:37.352Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:37.542Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:37.545Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:37.545Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-16T16:34:37.565Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:37.567Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:37.567Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-01-16T16:34:38.399Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:38.401Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:38.401Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-01-16T16:34:38.407Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=#swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-01-16T16:34:38.407Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:38.409Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:38.410Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-2.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:38.495Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:38.498Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.499Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.500Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.503Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.504Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:38.504Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=ce24034c-9311-4f48-b1cc-1513fbdf83c7"}
+{"level":30,"time":"2024-01-16T16:34:38.504Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:38.506Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.507Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.508Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:38.508Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:38.509Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:38.510Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:38.511Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=ce24034c-9311-4f48-b1cc-1513fbdf83c7"}
+{"level":30,"time":"2024-01-16T16:34:38.511Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:38.513Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.513Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.514Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:38.514Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=ce24034c-9311-4f48-b1cc-1513fbdf83c7"}
+{"level":30,"time":"2024-01-16T16:34:38.514Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:38.515Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:38.524Z","pid":296,"hostname":"Siqueira-Neto","msg":"Removed page=39f5d1db-73bb-4690-b5bb-a167f4184a41 from context=a465427d-1a78-4fdb-9b78-8f1a4dea2de5 page stack"}
+{"level":30,"time":"2024-01-16T16:34:38.534Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:38.535Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.536Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:38.538Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:38.538Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:38.539Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:38.539Z","pid":296,"hostname":"Siqueira-Neto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-16T16:34:38.543Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:38.612Z","pid":296,"hostname":"Siqueira-Neto","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-16T16:34:38.612Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:39.344Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:39.346Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:39.346Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-01-16T16:34:39.360Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:39.362Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:39.363Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.398Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:39.400Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:39.400Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:39.403Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:39.405Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:39.405Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:39.417Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element form > h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-16T16:34:39.417Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:39.419Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.420Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.431Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.433Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.433Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.443Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.444Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.444Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.453Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.455Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.455Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.465Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.467Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:39.467Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.488Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:39.490Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.490Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.494Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.494Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.506Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.506Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.511Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.511Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.522Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.522Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.527Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.527Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.538Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.538Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.543Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.543Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.554Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.554Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.559Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.559Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.570Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.570Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.575Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.575Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.586Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.586Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.591Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.591Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.602Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.602Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.607Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.607Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.618Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.618Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.622Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.622Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.633Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.633Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.638Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.638Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.649Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.649Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.654Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.654Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.666Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.666Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.671Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.671Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.682Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.683Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.687Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.687Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.699Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.699Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.704Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.704Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.715Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.716Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.720Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.720Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.731Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.731Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.735Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.735Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.747Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.747Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.752Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.752Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.764Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.764Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.768Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:39.768Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.780Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.780Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.785Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Amadeu Ferreira de Sousa"}
+{"level":30,"time":"2024-01-16T16:34:39.785Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.787Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.787Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.792Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Baviera"}
+{"level":30,"time":"2024-01-16T16:34:39.792Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.793Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.793Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.798Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Quixadá/CE"}
+{"level":30,"time":"2024-01-16T16:34:39.798Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:39.800Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.800Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.809Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.810Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.810Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.819Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:39.821Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-01-16T16:34:39.835Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:39.835Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-3.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:40.011Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:40.013Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:40.013Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-16T16:34:40.039Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:40.041Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:40.041Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=div:nth-child(2) > span.alert-error in page."}
+{"level":30,"time":"2024-01-16T16:34:40.048Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=div:nth-child(2) > span.alert-error containing CPF inválido"}
+{"level":30,"time":"2024-01-16T16:34:40.048Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:40.050Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:40.050Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-4.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:40.146Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:40.149Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.150Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.151Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.152Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.153Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:40.153Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=d08b1e0c-470f-4169-a4e4-b065a6fcef0a"}
+{"level":30,"time":"2024-01-16T16:34:40.153Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:40.155Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.156Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.157Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:40.157Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:40.158Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:40.158Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:40.159Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=d08b1e0c-470f-4169-a4e4-b065a6fcef0a"}
+{"level":30,"time":"2024-01-16T16:34:40.159Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:40.162Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.163Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.164Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:40.164Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=d08b1e0c-470f-4169-a4e4-b065a6fcef0a"}
+{"level":30,"time":"2024-01-16T16:34:40.164Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:40.165Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:40.170Z","pid":296,"hostname":"Siqueira-Neto","msg":"Removed page=b9734cea-fa61-426b-b3ad-c485d15ed659 from context=b68b76d2-d5b9-4aa7-a7aa-71ad32385e73 page stack"}
+{"level":30,"time":"2024-01-16T16:34:40.177Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:40.179Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.179Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:40.181Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:40.181Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:40.182Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:40.183Z","pid":296,"hostname":"Siqueira-Neto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-16T16:34:40.187Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:40.261Z","pid":296,"hostname":"Siqueira-Neto","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-16T16:34:40.261Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:41.042Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:41.044Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:41.044Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-01-16T16:34:41.059Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:41.061Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:41.062Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:41.102Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:41.104Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:41.104Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:41.107Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:41.108Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.108Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:41.121Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element form > h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-16T16:34:41.121Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.123Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:41.123Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-16T16:34:41.144Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:41.146Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.146Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu nome completo in page."}
+{"level":30,"time":"2024-01-16T16:34:41.153Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=.alert-error >> text=Informe o seu nome completo containing Informe o seu nome completo"}
+{"level":30,"time":"2024-01-16T16:34:41.153Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.155Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.155Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu melhor email in page."}
+{"level":30,"time":"2024-01-16T16:34:41.162Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=.alert-error >> text=Informe o seu melhor email containing Informe o seu melhor email"}
+{"level":30,"time":"2024-01-16T16:34:41.162Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.163Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.163Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu CPF in page."}
+{"level":30,"time":"2024-01-16T16:34:41.170Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=.alert-error >> text=Informe o seu CPF containing Informe o seu CPF"}
+{"level":30,"time":"2024-01-16T16:34:41.170Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.171Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.172Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe o seu CEP in page."}
+{"level":30,"time":"2024-01-16T16:34:41.178Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=.alert-error >> text=Informe o seu CEP containing Informe o seu CEP"}
+{"level":30,"time":"2024-01-16T16:34:41.178Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.179Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.179Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe um número maior que zero in page."}
+{"level":30,"time":"2024-01-16T16:34:41.192Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=.alert-error >> text=Informe um número maior que zero containing Informe um número maior que zero"}
+{"level":30,"time":"2024-01-16T16:34:41.192Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.194Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.194Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Adcione um documento com foto (RG ou CHN) in page."}
+{"level":30,"time":"2024-01-16T16:34:41.200Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=.alert-error >> text=Adcione um documento com foto (RG ou CHN) containing Adcione um documento com foto (RG ou CHN)"}
+{"level":30,"time":"2024-01-16T16:34:41.201Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:41.204Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:41.204Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-5.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:41.265Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:41.268Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.269Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.270Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.271Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.271Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:41.271Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=b5f06cb1-457c-4498-87f5-4e7db3ee24d3"}
+{"level":30,"time":"2024-01-16T16:34:41.271Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:41.273Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.274Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.275Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:41.275Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:41.276Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:41.276Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:41.277Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=b5f06cb1-457c-4498-87f5-4e7db3ee24d3"}
+{"level":30,"time":"2024-01-16T16:34:41.277Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:41.278Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.279Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.280Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:41.280Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=b5f06cb1-457c-4498-87f5-4e7db3ee24d3"}
+{"level":30,"time":"2024-01-16T16:34:41.280Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:41.281Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:41.286Z","pid":296,"hostname":"Siqueira-Neto","msg":"Removed page=d04c14af-dad5-40e3-bf2c-284c2777be11 from context=967b0e67-8dc5-42f0-be1f-94d6b1dc1d6d page stack"}
+{"level":30,"time":"2024-01-16T16:34:41.292Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:41.294Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.294Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:41.297Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:41.297Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:41.298Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:41.298Z","pid":296,"hostname":"Siqueira-Neto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-16T16:34:41.302Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:41.370Z","pid":296,"hostname":"Siqueira-Neto","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-16T16:34:41.370Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:42.192Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:42.194Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:42.194Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-01-16T16:34:42.209Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:42.211Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:42.211Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.254Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:42.256Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:42.256Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:42.259Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:42.260Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:42.260Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:42.272Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element form > h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-16T16:34:42.272Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:42.274Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.274Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.286Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.287Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.287Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.297Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.299Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.299Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.308Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.310Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.310Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.319Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.321Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:42.321Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.344Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:42.346Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.346Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.350Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.351Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.362Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.362Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.367Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.367Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.378Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.378Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.383Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.383Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.394Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.394Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.399Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.399Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.410Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.411Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.415Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.415Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.426Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.426Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.430Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.430Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.442Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.442Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.446Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.446Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.457Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.457Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.463Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.463Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.474Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.475Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.479Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.479Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.490Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.490Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.495Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.495Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.506Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.506Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.510Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.510Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.521Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.521Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.526Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.526Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.537Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.537Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.541Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.541Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.552Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.552Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.557Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.557Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.568Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.568Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.572Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.572Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.583Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.583Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.588Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.588Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.599Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.600Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.604Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.604Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.615Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.615Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.619Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.619Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.630Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.630Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.634Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.634Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.646Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.646Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.650Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.650Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.661Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.661Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.665Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:42.665Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.676Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.676Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.682Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Amadeu Ferreira de Sousa"}
+{"level":30,"time":"2024-01-16T16:34:42.682Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.684Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.684Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.688Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Baviera"}
+{"level":30,"time":"2024-01-16T16:34:42.688Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.689Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.689Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.693Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Quixadá/CE"}
+{"level":30,"time":"2024-01-16T16:34:42.693Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:42.695Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.695Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.703Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.705Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.705Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.713Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:42.715Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-01-16T16:34:42.726Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:42.726Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-6.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:42.892Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:42.894Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:42.894Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Cuidar\"]/.. in page."}
+{"level":30,"time":"2024-01-16T16:34:42.912Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:42.914Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:42.914Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-7.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:43.078Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:43.080Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:43.080Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-16T16:34:43.103Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:43.105Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:43.105Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-01-16T16:34:43.934Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:43.936Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:43.936Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-01-16T16:34:43.944Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=#swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-01-16T16:34:43.944Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:43.946Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:43.946Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-8.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:44.022Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:44.024Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.025Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.026Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.027Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.028Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:44.028Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=40e4b7e2-0cb1-47f9-b4f2-d8c31aca954b"}
+{"level":30,"time":"2024-01-16T16:34:44.028Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:44.029Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.030Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.031Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:44.031Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:44.032Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:44.032Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:44.033Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=40e4b7e2-0cb1-47f9-b4f2-d8c31aca954b"}
+{"level":30,"time":"2024-01-16T16:34:44.033Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:44.037Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.039Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.040Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:44.040Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=40e4b7e2-0cb1-47f9-b4f2-d8c31aca954b"}
+{"level":30,"time":"2024-01-16T16:34:44.040Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:44.041Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:44.046Z","pid":296,"hostname":"Siqueira-Neto","msg":"Removed page=bb0a3d20-193a-4cd7-811e-0366747972cb from context=0776e3a9-9a2c-4d21-ba42-58baba702301 page stack"}
+{"level":30,"time":"2024-01-16T16:34:44.055Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:44.057Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.057Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:44.059Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:44.059Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:44.060Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:44.060Z","pid":296,"hostname":"Siqueira-Neto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-16T16:34:44.065Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:44.136Z","pid":296,"hostname":"Siqueira-Neto","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-16T16:34:44.136Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:44.959Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-16T16:34:44.960Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:44.960Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-01-16T16:34:44.979Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:44.981Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:44.981Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.021Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:45.023Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:45.023Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:45.026Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:45.027Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:45.027Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with form > h1 in page."}
+{"level":30,"time":"2024-01-16T16:34:45.040Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element form > h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-16T16:34:45.040Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:45.042Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.042Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.055Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.057Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.057Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.067Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.069Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.069Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.079Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.081Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.081Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.091Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.093Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:45.093Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.116Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:45.117Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.117Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.122Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.122Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.134Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.134Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.138Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.138Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.150Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.150Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.154Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.154Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.165Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.166Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.170Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.170Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.181Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.181Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.185Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.185Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.197Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.197Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.201Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.201Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.213Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.213Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.218Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.218Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.229Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.229Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.234Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.234Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.245Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.245Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.250Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.250Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.261Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.261Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.265Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.265Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.277Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.277Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.281Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.281Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.292Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.292Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.296Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.296Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.307Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.307Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.312Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.312Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.323Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.323Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.327Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.327Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.338Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.338Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.343Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.343Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.354Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.354Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.358Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.358Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.369Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.370Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.374Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.374Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.385Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.385Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.390Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.390Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.401Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.401Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.405Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.405Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.416Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.416Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.421Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.421Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.433Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.433Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.437Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.437Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.448Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.448Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.452Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.452Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.463Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.463Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.467Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.467Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.478Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.478Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.482Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.482Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.493Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.493Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.497Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.497Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.508Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.508Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.513Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.513Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.524Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.524Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.529Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.529Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.540Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.540Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.545Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.545Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.556Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.556Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.560Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.560Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.571Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.572Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.576Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.576Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.587Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.587Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.591Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.591Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.602Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.603Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.607Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.607Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.617Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.617Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.621Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.621Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.633Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.633Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.637Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.637Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.648Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.648Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.652Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.652Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.663Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.663Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.667Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.668Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.679Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.679Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.683Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.683Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.695Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.695Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.699Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.699Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.710Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.710Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.715Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.715Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.726Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.726Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.730Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.730Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.741Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.741Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.746Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.746Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.757Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.757Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.761Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.761Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.772Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.772Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.776Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.776Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.788Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.788Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.792Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.792Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.804Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.804Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.808Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.808Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.819Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.819Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.823Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.823Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.835Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.835Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.840Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.840Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.851Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.851Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.856Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-16T16:34:45.856Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.867Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.867Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.874Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Amadeu Ferreira de Sousa"}
+{"level":30,"time":"2024-01-16T16:34:45.874Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.875Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.875Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.880Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Baviera"}
+{"level":30,"time":"2024-01-16T16:34:45.880Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.881Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.881Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.886Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Quixadá/CE"}
+{"level":30,"time":"2024-01-16T16:34:45.886Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-16T16:34:45.887Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.887Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.897Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.899Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.899Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.907Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-16T16:34:45.909Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-01-16T16:34:45.919Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:45.919Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-9.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:46.089Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:46.091Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:46.091Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Adestrar\"]/.. in page."}
+{"level":30,"time":"2024-01-16T16:34:46.112Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:46.114Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:46.114Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-10.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:46.278Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:46.280Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-16T16:34:46.280Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-16T16:34:46.303Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method click"}
+{"level":30,"time":"2024-01-16T16:34:46.304Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:46.305Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-01-16T16:34:47.123Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-16T16:34:47.125Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:47.125Z","pid":296,"hostname":"Siqueira-Neto","msg":"Strict mode is enabled, find Locator with css=#swal2-html-container in page."}
+{"level":30,"time":"2024-01-16T16:34:47.131Z","pid":296,"hostname":"Siqueira-Neto","msg":"Retrieved text for element css=#swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2024-01-16T16:34:47.131Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-16T16:34:47.134Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:47.134Z","pid":296,"hostname":"Siqueira-Neto","Take screenshot with options: ":{"path":"C:\\QAX\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-11.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-16T16:34:47.211Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-16T16:34:47.214Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.215Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.215Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.219Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.220Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:47.220Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=94cf2506-908e-493d-b3de-25ddd4529bdc"}
+{"level":30,"time":"2024-01-16T16:34:47.220Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:47.221Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.222Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.223Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:47.224Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:47.224Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:47.225Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-16T16:34:47.225Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=94cf2506-908e-493d-b3de-25ddd4529bdc"}
+{"level":30,"time":"2024-01-16T16:34:47.225Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:47.227Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.228Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.229Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active context"}
+{"level":30,"time":"2024-01-16T16:34:47.229Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changing current active page: page=94cf2506-908e-493d-b3de-25ddd4529bdc"}
+{"level":30,"time":"2024-01-16T16:34:47.229Z","pid":296,"hostname":"Siqueira-Neto","msg":"Changed active page"}
+{"level":30,"time":"2024-01-16T16:34:47.230Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:47.235Z","pid":296,"hostname":"Siqueira-Neto","msg":"Removed page=5d86a10b-9394-46ee-817a-6f3fdf3d1fe2 from context=a4200324-e24f-41f5-8655-6efe35d12262 page stack"}
+{"level":30,"time":"2024-01-16T16:34:47.243Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-16T16:34:47.247Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.247Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-16T16:34:47.292Z","pid":296,"hostname":"Siqueira-Neto","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-01-16T16:34:47.381Z","pid":296,"hostname":"Siqueira-Neto","msg":"End of node method closeAllBrowsers"}
